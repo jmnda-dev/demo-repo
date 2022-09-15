@@ -1,5 +1,5 @@
-# MyApp
-
+# My! App
+[demo](https://user-images.githubusercontent.com/65728679/190421996-a1583bc2-38f4-43c8-b1f3-9382db74be17.gif)
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
