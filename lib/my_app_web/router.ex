@@ -17,7 +17,9 @@ defmodule MyAppWeb.Router do
   scope "/", MyAppWeb do
     pipe_through :browser
 
-    get "/", PageController, :index
+    live "/", PageOneLive
+    live "/page2", PageTwoLive
+    # get "/", PageController, :index
   end
 
   # Other scopes may use custom stacks.
